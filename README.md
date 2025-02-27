@@ -182,7 +182,7 @@
         <div class="row">
             <script>
                 let students = [
-                    { name: "Жомарт", link: "file:///C:/Users/Asus/Desktop/zhomart.htm" },
+                    { name: "Жомарт", <a href="file:///C:/Users/Asus/Desktop/zhomart.htm"</a> },
                     { name: "Айдана", link: "file:///C:/Users/Asus/Downloads/aidana.htm" },
                     { name: "Ерсұлтан", link: "file:///C:/Users/Asus/Downloads/portfolio.html" },
                     { name: "Асылжан", link: "file:///C:/Users/Asus/AppData/Local/Temp/b4332f2c-1136-4f79-b681-d28a18d462a6_Portfolio.zip.2a6/Portfolio/index.html" },
