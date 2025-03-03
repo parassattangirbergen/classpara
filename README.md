@@ -177,10 +177,10 @@
     </script>
 
 <section id="students" class="students text-center" style="display: none; padding: 30px; background-color: #081426;">
-    <h2 style="color: #d0d5c2;">Оқушылар</h2>
-    <div class="container">
-        <div class="row">
-            <script>
+<h2 style="color: #d0d5c2;">Оқушылар</h2>
+<div class="container">
+<div class="row">
+<script>
                 let students = [
                     { name: "Жомарт", link: "https://zhomart7898.github.io/555/" },
                     { name: "Айдана", link: "https://aidanaa286.github.io/aidana/" },
@@ -207,9 +207,9 @@
                         </div>
                     `);
                 });
-            </script>
-        </div>
-    </div>
+</script>
+</div>
+</div>
 </section>
 
 <script>
