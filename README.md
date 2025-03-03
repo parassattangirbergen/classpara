@@ -183,11 +183,11 @@
             <script>
                 let students = [
                     { name: "Жомарт", <a href="file:///C:/Users/Asus/Desktop/zhomart.htm"</a> },
-                    { name: "Айдана", link: "file:///C:/Users/Asus/Downloads/aidana.htm" },
+                    { name: "Айдана", link: "https://aidanaa286.github.io/aidana/" },
                     { name: "Ерсұлтан", link: "file:///C:/Users/Asus/Downloads/portfolio.html" },
-                    { name: "Асылжан", link: "file:///C:/Users/Asus/AppData/Local/Temp/b4332f2c-1136-4f79-b681-d28a18d462a6_Portfolio.zip.2a6/Portfolio/index.html" },
+                    { name: "Асылжан", link: "https://zhasyl.github.io/asyl/" },
                     { name: "Айбол", link: "file:///C:/Users/Asus/Desktop/aibol.htm" },
-                    { name: "Ерназар", link: "file:///C:/Users/Asus/AppData/Local/Temp/3fcaf946-a167-4281-aeb8-943564e4b415_Ernazar.project.zip.Ernazar.project.zip/Ernazar.project/inf.html" },
+                    { name: "Ерназар", link: "https://zhasyl.github.io/ernazar/" },
                     { name: "Асет", link: "file:///C:/Users/Asus/Downloads/ASSET.html" },
                     { name: "Парасат", link: "file:///C:/Users/Asus/Downloads/parassat02.html" },
                     { name: "Альбина", link: "file:///C:/Users/Asus/Downloads/%D0%A1%D0%B0%D0%BC%D0%B0%D1%82%D0%BE%D0%B2%D0%B0%20%D0%90%D0%BB%D1%8C%D0%B1%D0%B8%D0%BD%D0%B0%20%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE.htm" },
