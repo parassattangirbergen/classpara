@@ -182,7 +182,7 @@
         <div class="row">
             <script>
                 let students = [
-                    { name: "Жомарт", <a href="file:///C:/Users/Asus/Desktop/zhomart.htm"</a> },
+                    { name: "Жомарт", link: "https://zhomart7898.github.io/555/" },
                     { name: "Айдана", link: "https://aidanaa286.github.io/aidana/" },
                     { name: "Ерсұлтан", link: "https://ersultaaan.github.io/portfolio/" },
                     { name: "Асылжан", link: "https://zhasyl.github.io/asyl/" },
