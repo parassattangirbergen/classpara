@@ -184,16 +184,16 @@
                 let students = [
                     { name: "Жомарт", <a href="file:///C:/Users/Asus/Desktop/zhomart.htm"</a> },
                     { name: "Айдана", link: "https://aidanaa286.github.io/aidana/" },
-                    { name: "Ерсұлтан", link: "file:///C:/Users/Asus/Downloads/portfolio.html" },
+                    { name: "Ерсұлтан", link: "https://ersultaaan.github.io/portfolio/" },
                     { name: "Асылжан", link: "https://zhasyl.github.io/asyl/" },
                     { name: "Айбол", link: "file:///C:/Users/Asus/Desktop/aibol.htm" },
                     { name: "Ерназар", link: "https://zhasyl.github.io/ernazar/" },
-                    { name: "Асет", link: "file:///C:/Users/Asus/Downloads/ASSET.html" },
-                    { name: "Парасат", link: "file:///C:/Users/Asus/Downloads/parassat02.html" },
-                    { name: "Альбина", link: "file:///C:/Users/Asus/Downloads/%D0%A1%D0%B0%D0%BC%D0%B0%D1%82%D0%BE%D0%B2%D0%B0%20%D0%90%D0%BB%D1%8C%D0%B1%D0%B8%D0%BD%D0%B0%20%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE.htm" },
+                    { name: "Асет", link: "https://aseeett.github.io/asefhj/" },
+                    { name: "Парасат", link: "https://parassattangirbergen.github.io/parassat/" },
+                    { name: "Альбина", link: "https://albinasamatova.github.io/port/" },
                     { name: "Әділ", link: "file:///C:/Users/Asus/AppData/Local/Temp/ff23dcd8-298f-44e8-bc99-f6593d790dc0_my-biography.zip.my-biography.zip/my-biography/index.html#profession" },
-                    { name: "Ильяс", link: "file:///C:/Users/Asus/AppData/Local/Temp/5fa78bf3-144d-4eec-804b-6179075a6532_portfolio%20(1).zip.portfolio%20(1).zip/portfolio/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82.html" },
-                    
+                    { name: "Ильяс", link: "https://nokrad070.github.io/ILYAS/" },
+                    { name: "Ерәлім", link: "https://01102008yaya.github.io/Era.github.io/" },
                 ];
 
                 students.forEach(student => {
