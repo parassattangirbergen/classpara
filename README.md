@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -194,6 +194,7 @@
                     { name: "Әділ", link: "file:///C:/Users/Asus/AppData/Local/Temp/ff23dcd8-298f-44e8-bc99-f6593d790dc0_my-biography.zip.my-biography.zip/my-biography/index.html#profession" },
                     { name: "Ильяс", link: "https://nokrad070.github.io/ILYAS/" },
                     { name: "Ерәлім", link: "https://01102008yaya.github.io/Era.github.io/" },
+                    { name: "Жадыра", link: "https://zhasyl.github.io/zhako/zhadyra1.htm" },
                 ];
 
                 students.forEach(student => {
