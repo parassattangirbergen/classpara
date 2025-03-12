@@ -80,16 +80,20 @@
     <div class="container">
         <p class="description">Explore the creative works of our 10G class students. Click on a name to view their portfolio.</p>
         <div class="portfolio-links">
-            <a href="#">Student 1</a>
-            <a href="#">Student 2</a>
-            <a href="#">Student 3</a>
-            <a href="#">Student 4</a>
-            <a href="#">Student 5</a>
-            <a href="#">Student 6</a>
-            <a href="#">Student 7</a>
-            <a href="#">Student 8</a>
-            <a href="#">Student 9</a>
-            <a href="#">Student 10</a>
+            { name: "Жомарт", link: "https://zhomart7898.github.io/555/" },
+                    { name: "Айдана", link: "https://aidanaa286.github.io/aidana/" },
+                    { name: "Ерсұлтан", link: "https://ersultaaan.github.io/portfolio/" },
+                    { name: "Асылжан", link: "https://zhasyl.github.io/asyl/" },
+                    { name: "Айбол", link: "https://aibol0923.github.io/777/" },
+                    { name: "Ерназар", link: "https://zhasyl.github.io/ernazar/" },
+                    { name: "Асет", link: "https://aseeett.github.io/asefhj/" },
+                    { name: "Парасат", link: "https://parassattangirbergen.github.io/parassat/" },
+                    { name: "Альбина", link: "https://albinasamatova.github.io/port/" },
+                    { name: "Әділ", link: "https://zhienbaevadil.github.io/my-first-site/" },
+                    { name: "Ильяс", link: "https://nokrad070.github.io/ILYAS/" },
+                    { name: "Ерәлім", link: "https://01102008yaya.github.io/Era.github.io/" },
+                    { name: "Жадыра", link: "https://zhasyl.github.io/zhako/zhadyra1.htm" },
+    
         </div>
     </div>
 
