@@ -181,7 +181,7 @@
 <div class="container">
 <div class="row">
 <script>
-                let students = [
+            let students = [
                     { name: "Жомарт", link: "https://zhomart7898.github.io/555/" },
                     { name: "Айдана", link: "https://aidanaa286.github.io/aidana/" },
                     { name: "Ерсұлтан", link: "https://ersultaaan.github.io/portfolio/" },
@@ -195,7 +195,7 @@
                     { name: "Ильяс", link: "https://nokrad070.github.io/ILYAS/" },
                     { name: "Ерәлім", link: "https://01102008yaya.github.io/Era.github.io/" },
                     { name: "Жадыра", link: "https://zhasyl.github.io/zhako/zhadyra1.htm" },
-                ];
+            ];
 
                 students.forEach(student => {
                     document.write(
