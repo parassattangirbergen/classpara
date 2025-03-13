@@ -222,7 +222,7 @@
     });
 
     // Анимация появления карточек при скролле
-    function revealOnScroll() {
+function revealOnScroll() {
         let cards = document.querySelectorAll('.student-card');
         let windowHeight = window.innerHeight;
 
@@ -233,7 +233,7 @@
                 card.style.transform = "translateY(0)";
             }
         });
-    }
+}
 
     window.addEventListener('scroll', revealOnScroll);
 </script>
