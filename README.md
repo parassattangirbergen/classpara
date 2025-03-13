@@ -100,7 +100,7 @@
     </nav>
 
     <section class="home text-center">
-        <img src="https://yandex.kz/images/search?text=%D1%84%D0%BE%D1%82%D0%BE+%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%D0%B0+%D0%B2+%D1%88%D0%BA%D0%BE%D0%BB%D0%B5&img_url=https%3A%2F%2Fkor24-ru.storage.yandexcloud.net%2Fmedia%2Fstorage%2Fd0%2Fd0c%2Fd0c915634552d71cb587edc5003cc82b_origin.jpeg&pos=4&rpt=simage&serp_list_type=images&stype=image&lr=162&"  
+        <img src="https://www.google.kz/imgres?q=фото%20кабинета%20в%20школе&imgurl=https%3A%2F%2Fobstanovka.club%2Fuploads%2Fposts%2F2023-03%2F1679909906_obstanovka-club-p-kabinet-nachalnikh-klassov-foto-instagram-1.jpg&imgrefurl=https%3A%2F%2Fobstanovka.club%2F43305-kabinet-nachalnyh-klassov-foto.html&docid=cLUpsyIHrqPUoM&tbnid=CixmaA1xecgZ_M&vet=12ahUKEwiq8JePzYaMAxXkGhAIHV5PCV0QM3oECBgQAA..i&w=1200&h=900&hcb=2&ved=2ahUKEwiq8JePzYaMAxXkGhAIHV5PCV0QM3oECBgQAA"  
              class="mx-auto d-block" 
              style="width: 50%; max-width: 300px; border-radius: 30px; margin-top: 20px;" 
              alt="..">
