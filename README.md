@@ -228,12 +228,13 @@
         cards.forEach(card => {
         let cardTop = card.getBoundingClientRect().top;
         if (cardTop < windowHeight - 50) {
-        card.style.opacity = "1";
-        card.style.transform = "translateY(0)";
+            card.style.opacity = "1";
+            card.style.transform = "translateY(0)";
             }
         });
-        }
-    window.addEventListener('scroll', revealOnScroll);
+        window.addEventListener('scroll', revealOnScroll);
+    }
+    
 </script>
 
 </body>
