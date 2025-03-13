@@ -196,7 +196,6 @@
                     { name: "Ерәлім", link: "https://01102008yaya.github.io/Era.github.io/" },
                     { name: "Жадыра", link: "https://zhasyl.github.io/zhako/zhadyra1.htm" },
             ];
-
                 students.forEach(student => {
                     document.write(
                         <div class="col-md-3 mb-3 student-card" style="opacity: 0; transform: translateY(30px); transition: all 0.6s ease;">
