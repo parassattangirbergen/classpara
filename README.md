@@ -220,21 +220,20 @@
         studentsSection.style.display = "block";
         studentsSection.scrollIntoView({ behavior: "smooth" });
     });
-
     // Анимация появления карточек при скролле
-function revealOnScroll() {
-let cards = document.querySelectorAll('.student-card');
-let windowHeight = window.innerHeight;
+    function revealOnScroll() {
+        let cards = document.querySelectorAll('.student-card');
+        let windowHeight = window.innerHeight;
 
-cards.forEach(card => {
-let cardTop = card.getBoundingClientRect().top;
-if (cardTop < windowHeight - 50) {
-card.style.opacity = "1";
-card.style.transform = "translateY(0)";
-}
-});
-}
-window.addEventListener('scroll', revealOnScroll);
+        cards.forEach(card => {
+        let cardTop = card.getBoundingClientRect().top;
+        if (cardTop < windowHeight - 50) {
+        card.style.opacity = "1";
+        card.style.transform = "translateY(0)";
+            }
+        });
+        }
+    window.addEventListener('scroll', revealOnScroll);
 </script>
 
 </body>
