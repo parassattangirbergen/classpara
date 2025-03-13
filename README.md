@@ -181,32 +181,31 @@
 <div class="container">
 <div class="row">
 <script>
-            let students = [
-                    { name: "Жомарт", link: "https://zhomart7898.github.io/555/" },
-                    { name: "Айдана", link: "https://aidanaa286.github.io/aidana/" },
-                    { name: "Ерсұлтан", link: "https://ersultaaan.github.io/portfolio/" },
-                    { name: "Асылжан", link: "https://zhasyl.github.io/asyl/" },
-                    { name: "Айбол", link: "https://aibol0923.github.io/777/" },
-                    { name: "Ерназар", link: "https://zhasyl.github.io/ernazar/" },
-                    { name: "Асет", link: "https://aseeett.github.io/asefhj/" },
-                    { name: "Парасат", link: "https://parassattangirbergen.github.io/parassat/" },
-                    { name: "Альбина", link: "https://albinasamatova.github.io/port/" },
-                    { name: "Әділ", link: "https://zhienbaevadil.github.io/my-first-site/" },
-                    { name: "Ильяс", link: "https://nokrad070.github.io/ILYAS/" },
-                    { name: "Ерәлім", link: "https://01102008yaya.github.io/Era.github.io/" },
-                    { name: "Жадыра", link: "https://zhasyl.github.io/zhako/zhadyra1.htm" },
-            ];
-                students.forEach(student => {
-                    document.write(
-                        <div class="col-md-3 mb-3 student-card" style="opacity: 0; transform: translateY(30px); transition: all 0.6s ease;">
-                            <div class="card p-3 text-center" style="background-color: #052a5e; color: #d0d5c2; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);">
-                                <h5>
-                                    <a href="${student.link}" target="_blank" style="color: #d0d5c2; text-decoration: none;">${student.name}</a>
-                                </h5>
-                            </div>
-                        </div>
-                    );
-                });
+    let students = [
+        { name: "Жомарт", link: "https://zhomart7898.github.io/555/" },
+        { name: "Айдана", link: "https://aidanaa286.github.io/aidana/" },
+        { name: "Ерсұлтан", link: "https://ersultaaan.github.io/portfolio/" },
+        { name: "Асылжан", link: "https://zhasyl.github.io/asyl/" },
+        { name: "Айбол", link: "https://aibol0923.github.io/777/" },
+        { name: "Ерназар", link: "https://zhasyl.github.io/ernazar/" },
+        { name: "Асет", link: "https://aseeett.github.io/asefhj/" },
+        { name: "Парасат", link: "https://parassattangirbergen.github.io/parassat/" },
+        { name: "Альбина", link: "https://albinasamatova.github.io/port/" },
+        { name: "Әділ", link: "https://zhienbaevadil.github.io/my-first-site/" },
+        { name: "Ильяс", link: "https://nokrad070.github.io/ILYAS/" },
+        { name: "Ерәлім", link: "https://01102008yaya.github.io/Era.github.io/" },
+        { name: "Жадыра", link: "https://zhasyl.github.io/zhako/zhadyra1.htm" },
+    ];
+    students.forEachstudent => {
+        document.write {
+        <div class="col-md-3 mb-3 student-card" style="opacity: 0; transform: translateY(30px); transition: all 0.6s ease;">
+        <div class="card p-3 text-center" style="background-color: #052a5e; color: #d0d5c2; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);">
+        <h5>
+            <a href="${student.link}" target="_blank" style="color: #d0d5c2; text-decoration: none;">${student.name}</a>
+        </h5>
+        </div>
+        </div>
+    }}
 </script>
 </div>
 </div>
