@@ -181,7 +181,6 @@
 <div class="container">
 <div class="row">
 <script>
-    
     let students = [
         { name: "Жомарт", link: "https://zhomart7898.github.io/555/" },
         { name: "Айдана", link: "https://aidanaa286.github.io/aidana/" },
