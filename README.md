@@ -231,9 +231,8 @@
             card.style.transform = "translateY(0)";
             }
         });
-        window.addEventListener('scroll', revealOnScroll);
     }
-    
+    window.addEventListener('scroll', revealOnScroll);
 </script>
 
 </body>
