@@ -234,5 +234,4 @@
     window.addEventListener('scroll', revealOnScroll);
 </script>
 
-</body>
-</html>
+
